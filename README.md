@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Ari, @scarxiety
-- 🌱 I’m currently learning Java in 2nd year college!
+- 👋 Hi, I’m Scar, @scarxiety
 - 📫 my discord: scarxiety#0934
 
